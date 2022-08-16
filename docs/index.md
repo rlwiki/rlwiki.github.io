@@ -8,7 +8,7 @@ source_url: https://web.archive.org/web/20220618082325/https://www.reddit.com/r/
 
 <p class="note mb-6">
   <span class="fs-4 fw-500 text-grey-dk-300 d-block my-2">Gone, but not forgotten 🪦 </span>
-  <span>Sadly our beloved subreddit has permanently closed to the public and access to the historic wiki has been revoked. There have been numerous discords, WhatsApp and Wechat groups that have splintered off since, but the core info from the wiki is fragmented across these platforms and difficult to follow. This wiki is a _gently modified replica_<sup>†</sup> of the original RepLadies wiki and guides, before the content disappears forever.
+  <span>Sadly our beloved subreddit has permanently closed to the public and access to the historic wiki has been revoked. There have been numerous discords, WhatsApp and Wechat groups that have splintered off since, but the core info from the wiki is fragmented across these platforms and difficult to follow. This wiki is a <em>gently modified replica</em><sup>†</sup> of the original RepLadies wiki and guides, before the content disappears forever.
   </span>
 </p>
 

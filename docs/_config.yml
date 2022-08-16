@@ -1,0 +1,20 @@
+title: RepLadies Wiki & Guides
+description: RepLadies was a happy place for discussion about women's replica (and authentic) handbags, shoes, clothing, and accessories. This wiki is a gently modified replica of the historic RepLadies wiki and guides, before the content disappears forever.
+remote_theme: just-the-docs/just-the-docs
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/rlwiki/rlwiki.github.io" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+callouts:
+  note:
+    title: Note from rlwiki
+    color: green
+    opacity: 0.3
+  highlight:
+    color: blue
+    opacity: 0.3

@@ -1,0 +1,11 @@
+<footer>
+{% if page.source_url != nil %}
+  <p class="text-small text-grey-dk-100 mb-0"><a href="#top">Back to top &uarr;</a><br><br>Source: <a href="{{ page.source_url }}">{{ page.source_name }}</a></p>
+{% else %}
+  <p class="text-small text-grey-dk-100 mb-0"><a href="#top">Back to top &uarr;</a></p>
+{% endif %}
+{% if page.has_form %}
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-sha1/0.6.0/sha1.min.js"></script>
+  <script type="text/javascript" src='{{ "/assets/scripts.js" | absolute_url }}'></script>
+{% endif %}
+</footer>

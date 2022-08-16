@@ -1,0 +1,40 @@
+{% if page.redirect_seconds != nil %}
+<meta http-equiv="refresh" content='{{ page.redirect_seconds }}; URL={{ "" | absolute_url }}'>
+<link rel="canonical" href='{{ "" | absolute_url }}'>
+{% endif %}
+<meta name="google-site-verification" content="q6BTNSOxYWPKtHHYu-dbZsPYH_hKVsdLFJC12u1Ijng" />
+<link rel="apple-touch-icon" sizes="57x57" href="https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png"/><link rel="apple-touch-icon" sizes="60x60" href="https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-60x60.png"/><link rel="apple-touch-icon" sizes="72x72" href="https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-72x72.png"/><link rel="apple-touch-icon" sizes="76x76" href="https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-76x76.png"/><link rel="apple-touch-icon" sizes="114x114" href="https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-114x114.png"/><link rel="apple-touch-icon" sizes="120x120" href="https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-120x120.png"/><link rel="apple-touch-icon" sizes="144x144" href="https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-144x144.png"/><link rel="apple-touch-icon" sizes="152x152" href="https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-152x152.png"/><link rel="apple-touch-icon" sizes="180x180" href="https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-180x180.png"/><link rel="icon" type="image/png" sizes="192x192" href="https://www.redditstatic.com/desktop2x/img/favicon/android-icon-192x192.png"/><link rel="icon" type="image/png" sizes="32x32" href="https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png"/><link rel="icon" type="image/png" sizes="96x96" href="https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png"/><link rel="icon" type="image/png" sizes="16x16" href="https://www.redditstatic.com/desktop2x/img/favicon/favicon-16x16.png"/><link rel="manifest" href="https://www.redditstatic.com/desktop2x/img/favicon/manifest.json?v=2"/><meta name="msapplication-TileColor" content="#ffffff"/><meta name="msapplication-TileImage" content="https://www.redditstatic.com/desktop2x/img/favicon/ms-icon-144x144.png"/>
+{% if page.index_exclude %}
+<meta name="robots" content="noindex">
+{% endif %}
+{% if page.has_form %}
+<style>
+  .p-alert {
+    display: none;
+    border-radius: 3px;
+    color: #dd2e2e;
+    background-color: #ffe2e2;
+  }
+  .p-input {
+    display: block;
+    border: solid 1px #e6e1e8;
+    -webkit-box-shadow: 0 2px 3px 0 rgba(0,0,0,0.1);
+    box-shadow: 0 2px 3px 0 rgba(0,0,0,0.1);
+    font-size: 16px;
+    width: 100%;
+    border-radius: 3px;
+  }
+  .p-input:focus {
+    outline: none;
+    border-color: #7253ed;
+  }
+</style>
+{% endif %}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H8K9GHL7VJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-H8K9GHL7VJ');
+</script>

@@ -13,6 +13,7 @@ source_url: https://web.archive.org/web/20220618082325/https://www.reddit.com/r/
 | AE | AliExpress |
 | Auth | Authentic |
 | B&S | Bait and Switch |
+| BHW | Black Hardware |
 | BST | Buy, Sell, Trade |
 | BT | Basetao (TB agent) |
 | CCW | Constructive Criticism Welcome |
@@ -49,6 +50,8 @@ source_url: https://web.archive.org/web/20220618082325/https://www.reddit.com/r/
 | OP | Original Poster (the individual who started the topic) |
 | PM | Private Message |
 | PP | PayPal |
+| PP G&S | PayPal Goods and Services |
+| PP F&F | PayPal Friends and Family |
 | PSM | Louis Vuitton Palm Springs Mini |
 | PSP | Pre-Shipment Photos/Pictures (also used interchangeably with "QC pics") |
 | QC | Quality Check/Control |

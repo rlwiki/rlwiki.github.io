@@ -15,7 +15,8 @@ source_url: https://web.archive.org/web/20220618082325/https://www.reddit.com/r/
 
 - [**Buyer Etiquette and Expectations**](./buyers)
 - [**Sellers and Agents List**](./sellers)
-- [Sellers Airtable list](https://airtable.com/shrnpuAXCnRTlF2X7/tbl4Nzt5ZTcWZJCtM/viwUhhXR9CL5EIrZQ?blocks=hide)
+- [**Seller Albums List**](https://docs.google.com/spreadsheets/d/1NuQ1SSC5RRwrCsJKlAKkjRPcz86NVKAx3c9SbGJMcdU/edit#gid=814186310)
+- [Sellers Airtable List](https://airtable.com/shrnpuAXCnRTlF2X7/tbl4Nzt5ZTcWZJCtM/viwUhhXR9CL5EIrZQ?blocks=hide)
 - [Untrustworthy Sellers List](./sellers-untrustworthy)
 - [W2C Guide - How to Find Reps of Whatever You're Looking For](./w2c-guide)
 - [Group Buy FAQ](./group-buy)

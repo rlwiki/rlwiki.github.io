@@ -13,21 +13,10 @@ has_form: true
 
 ---
 
-<p class="note mb-6">
-  The sellers list is a snapshot from June 2022, shortly before the list was removed entirely. It won't be kept up to date, but exists merely for posterity. Alternatively try the <a href="https://docs.google.com/spreadsheets/d/1NuQ1SSC5RRwrCsJKlAKkjRPcz86NVKAx3c9SbGJMcdU/edit#gid=814186310">Seller Albums List</a> or <a href="https://www.reddit.com/r/stanleymarket"><code>r/stanleymarket</code></a> for a more active sellers list and seller reviews.
+<p class="note mb-4">
+  The sellers list is a snapshot from June 2022, shortly before the list was removed entirely. <strong>It won't be kept up to date and exists merely for posterity</strong>. Contact details have been password-protected for seller privacy and safety, but you can DM <a href="https://www.reddit.com/message/compose/?to=rlwiki&subject=sellers%20password"><code>u/rlwiki</code></a> on Reddit for the password.
+  <span class="d-block mt-2">Alternatively try the <a href="https://docs.google.com/spreadsheets/d/1NuQ1SSC5RRwrCsJKlAKkjRPcz86NVKAx3c9SbGJMcdU/edit#gid=814186310">Seller Albums List</a> or <a href="https://www.reddit.com/r/stanleymarket"><code>r/stanleymarket</code></a> for a more active sellers list and seller reviews.</span>
 </p>
-
-For the best rep buying experience, please read the [**Buyer Etiquette and Expectations**](./buyers) page first.
-
-***RL does not, cannot, and will not guarantee that your seller and agent experience will be seamless or problem-free because we can’t.*** It’s erroneous to assume that the very existence of this list somehow eliminates all aspects of risk and unpredictability associated with an illegal industry. 
-
-You, the buyer, are responsible for yourself, for your money, for your transaction, and for your seller interaction. Simply put, we will not intervene or help if your rep ordering experience goes awry. ***[Caveat emptor](https://en.wikipedia.org/wiki/Caveat_emptor)***.
-
----
-
-## Sellers List
-
-Contact details have been password-protected for seller privacy and safety. Message us on Reddit at [`u/rlwiki`](https://www.reddit.com/message/compose/?to=rlwiki&subject=sellers%20password) for the password if you don't already have it.
 
 <form data-id="form">
   <div class="p-alert p-2" data-id="alert">You entered the wrong password</div>
@@ -39,10 +28,15 @@ Contact details have been password-protected for seller privacy and safety. Mess
 
 ---
 
-#### [Seller feedback thread](https://web.archive.org/web/20220424230134/https://www.reddit.com/r/RepLadies/comments/sqjguo/update_2_who_is_the_best_seller_there_is_no_such/) 
-   - This ~~is~~ was a recurring post in which users from this community share their experiences with sellers. Previous versions can be found linked within the post.
+For the best rep buying experience, please read the [**Buyer Etiquette and Expectations**](./buyers) page first.
+
+***RL does not, cannot, and will not guarantee that your seller and agent experience will be seamless or problem-free because we can’t.*** It’s erroneous to assume that the very existence of this list somehow eliminates all aspects of risk and unpredictability associated with an illegal industry. 
+
+You, the buyer, are responsible for yourself, for your money, for your transaction, and for your seller interaction. Simply put, we will not intervene or help if your rep ordering experience goes awry. ***[Caveat emptor](https://en.wikipedia.org/wiki/Caveat_emptor)***.
 
 ---
+
+## Sellers List
 
 #### Aadi
  - [Infraction: CD/Hutaoli Factory Issue](https://web.archive.org/web/20210917162005/https://www.reddit.com/r/RepLadies/comments/pq3avl/psa_hutaolixiao_jiuwalnut_factory_and_where_do_we/) + [comments](https://www.unddit.com/r/RepLadies/comments/pq3avl/psa_hutaolixiao_jiuwalnut_factory_and_where_do_we/)

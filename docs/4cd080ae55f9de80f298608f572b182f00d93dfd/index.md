@@ -1,6 +1,6 @@
 ---
 permalink: /4cd080ae55f9de80f298608f572b182f00d93dfd
-parent: Buying Guide
+parent: Buying Direct from Sellers
 title: Sellers and Agents
 nav_exclude: true
 search_exclude: true

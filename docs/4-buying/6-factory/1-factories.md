@@ -321,6 +321,7 @@ Known for their classic and seasonal LV bags.
 - **Acknowledgement** - Thanks to `u/yerbamate420` for contributing to this section
 
 Nickloe is to Fendi what Marble is to Celine. They've earned a reputation among buyers and sellers alike for making the best Fendi in the rep industry. They also make Fendi SLG, accessories (e.g. Strap You and bag charms), and extremely limited quantities of specific [Tom Ford bags](https://imgur.com/a/Anp3VuX). There are other factories that have similar backdrops that can easily be mistaken for Nickloe (i.e. Ounifan). 
+
 ---
 
 #### Orange Couch

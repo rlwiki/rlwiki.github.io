@@ -9,8 +9,6 @@ source_url: https://www.reddit.com/r/LuxeLife/comments/wow4by/a_beginners_guide_
 
 ---
 
-<p class="text-small text-grey-dk-100 mb-0"><a href="https://www.reddit.com/r/LuxeLife/comments/wow4by/a_beginners_guide_to_finding_reps_and_other">View</a> the original post</p>
-
 ## A beginners guide to finding reps and other goodies on AliExpress (and DHGate)
 
 [Disclaimer](https://imgur.com/a/8S2i0am): this guide may cause impulse purchases and many late nights spent browsing AE. You've been warned 😉

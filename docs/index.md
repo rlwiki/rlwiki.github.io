@@ -24,7 +24,7 @@ Please refer to this replica of the wiki, and utilise the [search function in So
 - [The Newbie Guide](./newbie-guide)
 - [Frequently Asked Questions](./faq)
 - [Acronyms and Terms Glossary](./acronyms)
-- [Buying Guide](./buying-guide)
+- [Buying Direct from Sellers](./buying-guide)
   - [Buyer Etiquette and Expectations](./buyers)
   - [Sellers and Agents List](./sellers)
   - [Untrustworthy Sellers List](./sellers-untrustworthy)

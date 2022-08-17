@@ -1,6 +1,6 @@
 ---
 permalink: /group-buy
-parent: Buying Guide
+parent: Buying Direct from Sellers
 nav_order: 5
 source_name: https://www.reddit.com/r/RepLadies/wiki/groupbuy
 source_url: https://web.archive.org/web/20220509215429/https://www.reddit.com/r/RepLadies/wiki/groupbuy

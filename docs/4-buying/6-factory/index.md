@@ -3,7 +3,7 @@ permalink: /factory-guide
 title: Factory Guide
 has_children: true
 has_toc: false
-parent: Buying Guide
+parent: Buying Direct from Sellers
 nav_order: 6
 source_name: https://www.reddit.com/r/RepLadies/wiki/index
 source_url: https://web.archive.org/web/20220618082325/https://www.reddit.com/r/RepLadies/wiki/index

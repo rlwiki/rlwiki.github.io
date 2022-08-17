@@ -1,6 +1,6 @@
 ---
 permalink: /sellers-untrustworthy
-parent: Buying Guide
+parent: Buying Direct from Sellers
 title: Untrustworthy Sellers
 nav_order: 3
 source_name: https://www.reddit.com/r/RepLadies/wiki/untrustworthysellers

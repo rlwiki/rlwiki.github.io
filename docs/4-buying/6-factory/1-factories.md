@@ -1,6 +1,6 @@
 ---
 permalink: /factories
-grand_parent: Buying Guide
+grand_parent: Buying Direct from Sellers
 parent: Factory Guide
 nav_order: 1
 source_name: https://www.reddit.com/r/RepLadies/wiki/factories

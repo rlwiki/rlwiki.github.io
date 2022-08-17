@@ -8,15 +8,14 @@ source_url: https://web.archive.org/web/20220618082325/https://www.reddit.com/r/
 
 <p class="note mb-6">
   <span class="fs-4 fw-500 text-grey-dk-300 d-block my-2">Gone, but not forgotten 🪦 </span>
-  <span>Sadly our beloved subreddit has permanently closed to the public and access to the historic wiki has been revoked. There have been numerous discords, WhatsApp and Wechat groups that have splintered off since, but the core info from the wiki is fragmented across these platforms and difficult to follow. This wiki is a <em>gently modified replica</em><sup>†</sup> of the original RepLadies wiki and guides, before the content disappears forever.
-  </span>
+  <span class="d-block">Sadly our beloved subreddit has permanently closed to the public and access to the historic wiki has been revoked. There have been numerous discords, WhatsApp and Wechat groups that have splintered off since, but the core info from the wiki is fragmented across these platforms and difficult to follow. This wiki is a <em>gently modified replica</em><sup>†</sup> of the original RepLadies wiki and guides, before the content disappears forever.</span>
 </p>
 
 RepLadies ~~is~~ was a happy place for discussion about women's replica (and authentic) handbags, shoes, clothing, and accessories. The `r/RepLadies` subreddit was formed in hopes of creating a community where we can all enjoy fashion at any level, share our experiences, reviews, likes, dislikes, and everything in between!
 
 Please refer to this replica of the wiki, and utilise the [search function in Social Grep](https://socialgrep.com/search?query=%2Fr%2Frepladies) for remnants of the subreddit.
 
-<p class="text-small text-grey-dk-100 mb-0 pt-4"><sup>†</sup>References to moderators, posting rules and general Reddit-specific things that don't apply here have been removed. Links to inaccessible comments or pages have been redirected to <a href="https://web.archive.org">Wayback Machine</a> and <a href="https://unddit.com">Unddit</a> where possible.</p>
+<p class="text-small text-grey-dk-100 mb-0 pt-4"><sup>†</sup>References to moderators, posting rules and general Reddit-specific things that don't apply here have been removed. Links to inaccessible comments or pages have been redirected to <a href="https://web.archive.org">Wayback Machine</a> and <a href="https://unddit.com">Unddit</a> where possible. If a guide or link looks useful, it'll be added.</p>
 
 ---
 
@@ -36,6 +35,7 @@ Please refer to this replica of the wiki, and utilise the [search function in So
   - [Shipping and Returns](./shipping)
 - [WeChat](./wechat)
 - [Taobao](./taobao)
+- [AliExpress and DHGate](./ae-dhg)
 - [Quality Check 101](./qc-101)
 - [Bag Care and Alterations](./bag-care)
 - [Special Features](./features)  
@@ -50,4 +50,4 @@ This is an open-source codebase, and contributions are always welcome! At the bo
 
 ### Contact
 
-Need to contact us about something? Try messaging on Reddit at [`u/rlwiki`](https://www.reddit.com/message/compose/?to=rlwiki&subject=wiki%20query).
+Need to contact us about something? Try messaging on Reddit at [`u/rlwiki`](https://www.reddit.com/message/compose/?to=rlwiki&subject=wagoons).

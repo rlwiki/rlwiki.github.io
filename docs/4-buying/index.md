@@ -1,6 +1,6 @@
 ---
 permalink: /buying-guide
-title: Buying Guide
+title: Buying Direct from Sellers
 has_children: true
 has_toc: false
 nav_order: 4
@@ -8,7 +8,7 @@ source_name: https://www.reddit.com/r/RepLadies/wiki/index
 source_url: https://web.archive.org/web/20220618082325/https://www.reddit.com/r/RepLadies/wiki/index
 ---
 
-# Buying Guide
+# Buying Direct from Sellers
 
 ---
 ## Ordering
@@ -18,12 +18,12 @@ source_url: https://web.archive.org/web/20220618082325/https://www.reddit.com/r/
 - [**Seller Albums List**](https://docs.google.com/spreadsheets/d/1NuQ1SSC5RRwrCsJKlAKkjRPcz86NVKAx3c9SbGJMcdU/edit#gid=814186310)
 - [Sellers Airtable List](https://airtable.com/shrnpuAXCnRTlF2X7/tbl4Nzt5ZTcWZJCtM/viwUhhXR9CL5EIrZQ?blocks=hide)
 - [Untrustworthy Sellers List](./sellers-untrustworthy)
-- [W2C Guide - How to Find Reps of Whatever You're Looking For](./w2c-guide)
+- [W2C Guide](./w2c-guide)
 - [Group Buy FAQ](./group-buy)
 - [Ordering FAQ](./faq#ordering)
 - [Factory Guide](./factory-guide)
 - [Luxury Consignment Buying Guide](https://web.archive.org/web/20190325204130/https://www.reddit.com/r/RepLadies/comments/87j55r/reference_lv_epi_6_key_cles_guide_preloved_buying/)
-- [The Newbie Guide](./newbie-guide#wechat-and-yupoo-sellers)
+- [The Newbie Guide - wechat and yupoo sellers](./newbie-guide#wechat-and-yupoo-sellers)
 
 ## Payment
 

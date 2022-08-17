@@ -132,7 +132,7 @@ Remember it's only money. If you can't afford to lose any of it, you shouldn't b
 
 ## Taobao
  
-You'll frequently see RL members talking about Taobao (TB) usually in the context of finds or hauls. They're referring to a massive e-commerce site that's basically China's version of Amazon. Finds are links to items that you can buy on TB and similar sites like Weidian, AE, and DHG. **Hauls** refer to large consolidated purchases.
+You'll frequently see RL members talking about Taobao (TB) usually in the context of finds or hauls. They're referring to a massive e-commerce site that's basically China's version of Amazon. Finds are links to items that you can buy on TB and similar sites like Weidian, [AE, and DHG](./ae-dhg). **Hauls** refer to large consolidated purchases.
 
 TB is another animal to tackle onto itself. You can refer to our dedicated [Taobao Wiki](./taobao) to begin learning the ropes whenever you're ready.
 

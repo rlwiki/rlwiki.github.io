@@ -1,6 +1,6 @@
 ---
 permalink: /sellers
-parent: Buying Guide
+parent: Buying Direct from Sellers
 title: Sellers and Agents
 nav_order: 2
 has_form: true
@@ -14,7 +14,7 @@ has_form: true
 ---
 
 <p class="note mb-6">
-  The sellers list is a snapshot from June 2022, shortly before the list was removed entirely. It won't be kept up to date, but exists merely for posterity. Alternatively <a href="https://www.reddit.com/r/stanleymarket"><code>r/stanleymarket</code></a> has a more active sellers list and seller reviews.
+  The sellers list is a snapshot from June 2022, shortly before the list was removed entirely. It won't be kept up to date, but exists merely for posterity. Alternatively try the <a href="https://docs.google.com/spreadsheets/d/1NuQ1SSC5RRwrCsJKlAKkjRPcz86NVKAx3c9SbGJMcdU/edit#gid=814186310">Seller Albums List</a> or <a href="https://www.reddit.com/r/stanleymarket"><code>r/stanleymarket</code></a> for a more active sellers list and seller reviews.
 </p>
 
 For the best rep buying experience, please read the [**Buyer Etiquette and Expectations**](./buyers) page first.

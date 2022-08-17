@@ -1,6 +1,6 @@
 ---
 permalink: /w2c-guide
-parent: Buying Guide
+parent: Buying Direct from Sellers
 nav_order: 4
 source_name: https://www.reddit.com/r/RepLadies/comments/76316c/w2c_guide_how_to_find_reps_of_a_specific_article/
 source_url: https://web.archive.org/web/20220513011820/https://www.reddit.com/r/RepLadies/comments/76316c/w2c_guide_how_to_find_reps_of_a_specific_article/

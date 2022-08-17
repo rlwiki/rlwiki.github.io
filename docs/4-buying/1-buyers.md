@@ -1,6 +1,6 @@
 ---
 permalink: /buyers
-parent: Buying Guide
+parent: Buying Direct from Sellers
 title: Buyer Etiquette
 nav_order: 1
 source_name: https://www.reddit.com/r/RepLadies/wiki/buyers

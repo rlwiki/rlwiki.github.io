@@ -7,7 +7,7 @@
 ---
 
 <p class="note mb-6">
-  The sellers list is a snapshot from June 2022, shortly before the list was removed entirely. <strong>It won't be kept up to date and exists merely for posterity</strong>. Alternatively try the <a href="https://docs.google.com/spreadsheets/d/1NuQ1SSC5RRwrCsJKlAKkjRPcz86NVKAx3c9SbGJMcdU/edit#gid=814186310">Seller Albums List</a> or <a href="https://www.reddit.com/r/stanleymarket"><code>r/stanleymarket</code></a> for a more active sellers list and seller reviews.
+  The sellers list is a snapshot from June 2022, shortly before the list was removed entirely. <strong>It won't be kept up to date and exists merely for posterity</strong>.
 </p>
 
 For the best rep buying experience, please read the [**Buyer Etiquette and Expectations**](./buyers) page first.

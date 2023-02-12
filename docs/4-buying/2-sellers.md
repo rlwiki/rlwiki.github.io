@@ -14,7 +14,7 @@ has_form: true
 ---
 
 <p class="note mb-4">
-  The sellers list is a snapshot from June 2022, shortly before the list was removed entirely. <strong>It won't be kept up to date and exists merely for posterity</strong>. Contact details have been password-protected for seller privacy and safety, but you can DM <a href="https://www.reddit.com/message/compose/?to=rlwiki&subject=sellers%20password"><code>u/rlwiki</code></a> on Reddit for the password.
+  The sellers list is a snapshot from June 2022, shortly before the list was removed entirely. <strong>It won't be kept up to date and exists merely for posterity</strong>. Contact details have been password-protected for seller privacy and safety, but you can <a href="https://www.reddit.com/message/compose/?to=rlwiki&subject=sellers%20password">click here to send a DM <code>u/rlwiki</code></a> on Reddit for the password.
 </p>
 
 <form data-id="form">

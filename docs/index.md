@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Home
+title: Repladies reddit
 nav_order: 0
 source_name: https://www.reddit.com/r/RepLadies/wiki/index
 source_url: https://web.archive.org/web/20220618082325/https://www.reddit.com/r/RepLadies/wiki/index

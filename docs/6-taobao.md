@@ -90,7 +90,8 @@ Again, this is a *very basic* starter guide for TB. There are many guides to hel
 
 - [TB Frequently Asked Questions](https://docs.google.com/document/d/1E0PUag4NzqCCFZ7s2AE_QefWhni2NwvC9sxrRpKeYXk/pub)
 - [TB Mobile to Desktop Link Converter](https://taobaotools.github.io)
-- [QC Suite](https://www.unddit.com/r/FashionReps/comments/8lbztu/tool_qc_suite_see_everyones_qc_in_taobao/) - A tool that allows you to view user uploaded PSP of previously purchased items
+- [QC Suite](https://www.unddit.com/r/FashionReps/comments/8lbztu/tool_qc_suite_see_everyones_qc_in_taobao/) - deprecated because the database is offline
+- [FR: Reborn](https://www.fashionreps.page/) 1:1 Replacement for QC Suite by u/RobotOilInc. It's still tampermonkey and requires some fiddling around.
 - [FashionReps TB/AE Beginner's Guides Link Compilation](https://www.unddit.com/r/FashionReps/comments/4g7pvi/guide_fashionreps_beginners_guide/)
 - [RL Shipping Wiki](./shipping)  
 - [TB Agents Services Comparison Chart](https://docs.google.com/spreadsheets/d/12pep0XQGK1Z-yuiovGBdt9LkupkWfa95JCklX50hx5I/htmlview#gid=0)

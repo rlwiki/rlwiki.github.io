@@ -507,12 +507,6 @@ You, the buyer, are responsible for yourself, for your money, for your transacti
  - Reddit username - `u/TommyZhangSuperbuy`
  - Subreddit - `r/Superbuy`
 
-#### Ytaopal
- - Website - [ytaopal.com](https://www.ytaopal.com)
- - WeChat - ytaopal
- - Email - service@ytaopal.com
- - Telephone - +86 579 8533 8337
- - Reddit username - `u/ytaopal`
 
 ---
 

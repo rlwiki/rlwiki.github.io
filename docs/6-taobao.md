@@ -31,7 +31,7 @@ Shopping on TB can be less expensive than going through a traditional rep seller
 
 ### Which Taobao Agent Should I Use?
 
-Once you've amassed your "haul," it's time to choose an agent. Superbuy is the most well known and, by far, the most popular. That being said, it's recommend that new TB shoppers use a smaller agent with better customer service (e.g. Basetao or Ytaopal). This way, when you get stuck, you can email someone and have a better chance getting a helpful, hand-holding response. You might have questions about what colors are available, sizing, etc. Ask your agent to ask the seller. You are paying them to make things easier for you, so get your money's worth.
+Once you've amassed your "haul," it's time to choose an agent. Superbuy is the most well known and, by far, the most popular. That being said, it's recommend that new TB shoppers use a smaller agent with better customer service (e.g. Basetao). This way, when you get stuck, you can email someone and have a better chance getting a helpful, hand-holding response. You might have questions about what colors are available, sizing, etc. Ask your agent to ask the seller. You are paying them to make things easier for you, so get your money's worth.
 
 If you're looking for an agent, you can refer to the [sellers and agents list](./sellers). Each member has their own preferred agent. You may have to try a few before finding one you like. In so long as you stick with one of those options, you should be fine. You take a risk dealing with other unknown agents, and like other rep sellers, there are many scammers out there looking to take advantage and steal your money, so be careful.
 
@@ -52,7 +52,6 @@ Again, this is a *very basic* starter guide for TB. There are many guides to hel
 - [Superbuy - Expert Service and Buying Branded Items](https://www.unddit.com/r/RepLadies/comments/8ip0d6/psa_guidance_regarding_superbuys_expert_service/)
  - **Note** -  Contains affiliate links benefiting `r/euReplica` moderator
 - [Superbuy - Parcel Forwarding](https://www.unddit.com/r/RepLadies/comments/8ip0d6/psa_guidance_regarding_superbuys_expert_service/dytrhf4/)
-- [Ytaopal - Shopping, Purchasing, QC, and Shipping Guide](https://www.unddit.com/r/RepLadies/comments/85k2cm/guide_ytaopal_shopping_purchasing_qc_shipping/)
 
 ---
 
@@ -91,7 +90,8 @@ Again, this is a *very basic* starter guide for TB. There are many guides to hel
 
 - [TB Frequently Asked Questions](https://docs.google.com/document/d/1E0PUag4NzqCCFZ7s2AE_QefWhni2NwvC9sxrRpKeYXk/pub)
 - [TB Mobile to Desktop Link Converter](https://taobaotools.github.io)
-- [QC Suite](https://www.unddit.com/r/FashionReps/comments/8lbztu/tool_qc_suite_see_everyones_qc_in_taobao/) - A tool that allows you to view user uploaded PSP of previously purchased items
+- [QC Suite](https://www.unddit.com/r/FashionReps/comments/8lbztu/tool_qc_suite_see_everyones_qc_in_taobao/) - deprecated because the database is offline
+- [FR: Reborn](https://www.fashionreps.page/) 1:1 Replacement for QC Suite by u/RobotOilInc. It's still tampermonkey and requires some fiddling around.
 - [FashionReps TB/AE Beginner's Guides Link Compilation](https://www.unddit.com/r/FashionReps/comments/4g7pvi/guide_fashionreps_beginners_guide/)
 - [RL Shipping Wiki](./shipping)  
 - [TB Agents Services Comparison Chart](https://docs.google.com/spreadsheets/d/12pep0XQGK1Z-yuiovGBdt9LkupkWfa95JCklX50hx5I/htmlview#gid=0)

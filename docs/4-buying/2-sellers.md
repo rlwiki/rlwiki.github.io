@@ -165,8 +165,7 @@ You, the buyer, are responsible for yourself, for your money, for your transacti
 ## Agents List
 
 #### Basetao
- - Website - [basetao.net](https://www.basetao.net/)
- - Secondary website - [basetao.cn](https://www.basetao.cn/)
+ - Website - [basetao.com](https://www.basetao.com/?fDAQc633SrIVoagMBg)
  - WhatsApp - +86 316 2113 7599
  - Email - basetao2you@163.com
  - Reddit username - `u/Basetao`
